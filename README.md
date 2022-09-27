@@ -1,5 +1,15 @@
-# HARDW-PDTrigger_HUSB238
-PD Trigger module on Hynetek HUSB238 chip
+## PD Trigger module on Hynetek HUSB238 chip
+This is a rework of [Hynetek HUSB238 evaluation board](https://www.hynetek.com/uploadfiles/site/219/files/23877051-9b40-4ae7-b10f-7e32536c2083.pdf) with minor changes. In general, i just added a fuse and reroute schematic for using available components from AliExpress.
+
+## Parameters for PCB ordering
+0.8mm thickness
+
+0.25mm min hole size
+
+Castellated holes
+
+
+## BOM list
 | № | Designator  | Qty | Description       | Manufacturer  | Name       | Package  | Link |
 | - | ----------- | --- | ----------------- | ------------- | ---------- | -------- | ---- |
 | 1 | C1, C2      | 2   | 330pf MLCC        |               |            | 0402     |      |
