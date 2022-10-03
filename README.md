@@ -3,6 +3,8 @@ This is a rework of [Hynetek HUSB238 evaluation board](https://www.hynetek.com/u
 
 The project is completed in Q4 2022.
 
+<img src="https://user-images.githubusercontent.com/21167984/193621029-0fe3eb74-0685-4adb-8924-ccc8e91540a4.png" width="150"> <img src="https://user-images.githubusercontent.com/21167984/193621060-b97243ad-8ca5-4d80-ac3e-5e986c981b65.PNG" width="150">
+
 ## Parameters for PCB order (JLCPCB compatible)
 0.8mm thickness
 
