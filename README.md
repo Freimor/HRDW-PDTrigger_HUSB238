@@ -3,7 +3,7 @@ This is a rework of [Hynetek HUSB238 evaluation board](https://www.hynetek.com/u
 
 The project is completed in Q4 2022.
 
-<img src="https://user-images.githubusercontent.com/21167984/193803479-7224a5e0-23b1-47f2-9a4e-894ddc157abc.png" width="150"> <img src="https://user-images.githubusercontent.com/21167984/193803543-774dd44b-a79d-4fa3-a822-49cf08de62be.png" width="300">
+<img src="https://user-images.githubusercontent.com/21167984/193803479-7224a5e0-23b1-47f2-9a4e-894ddc157abc.png" width="130"> <img src="https://user-images.githubusercontent.com/21167984/193803543-774dd44b-a79d-4fa3-a822-49cf08de62be.png" width="280">
 
 
 ## Parameters for PCB order (JLCPCB compatible)
